@@ -1,0 +1,23 @@
+apiVersion: v1
+entries:
+  external-secrets:
+  - apiVersion: v2
+    appVersion: v0.5.0
+    created: "2022-04-14T15:50:22.723377-06:00"
+    description: External secret management for Kubernetes
+    digest: 512b797fd493e79467c8c11829abbe460d26886a16d61aea97d848422a7c1317
+    home: https://github.com/external-secrets/external-secrets
+    icon: https://raw.githubusercontent.com/external-secrets/external-secrets/main/assets/round_eso_logo.png
+    keywords:
+    - kubernetes-external-secrets
+    - secrets
+    kubeVersion: '>= 1.11.0-0'
+    maintainers:
+    - email: kellinmcavoy@gmail.com
+      name: mcavoyk
+    name: external-secrets
+    type: application
+    urls:
+    - external-secrets-0.5.0.tgz
+    version: 0.5.0
+generated: "2022-04-14T15:50:22.717153-06:00"
