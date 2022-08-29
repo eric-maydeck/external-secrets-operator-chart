@@ -3,7 +3,7 @@ entries:
   external-secrets:
   - apiVersion: v2
     appVersion: v0.5.0
-    created: "2022-04-14T15:50:22.723377-06:00"
+    created: "2022-08-28T20:14:15.007058-06:00"
     description: External secret management for Kubernetes
     digest: 512b797fd493e79467c8c11829abbe460d26886a16d61aea97d848422a7c1317
     home: https://github.com/external-secrets/external-secrets
@@ -20,4 +20,4 @@ entries:
     urls:
     - external-secrets-0.5.0.tgz
     version: 0.5.0
-generated: "2022-04-14T15:50:22.717153-06:00"
+generated: "2022-08-28T20:14:15.000779-06:00"
