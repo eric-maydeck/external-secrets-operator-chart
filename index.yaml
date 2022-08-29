@@ -3,9 +3,9 @@ entries:
   external-secrets:
   - apiVersion: v2
     appVersion: v0.5.9
-    created: "2022-08-28T20:27:38.991444-06:00"
+    created: "2022-08-28T20:39:40.061546-06:00"
     description: External secret management for Kubernetes
-    digest: a2f054e36d163c4c44c7997baf915ac4ec204d5993bae4186aa8637b81cf1b9d
+    digest: cec690f60084292812a5e9dd06351ba7d2cedfd42d10a34b653d0b077d829399
     home: https://github.com/external-secrets/external-secrets
     icon: https://raw.githubusercontent.com/external-secrets/external-secrets/main/assets/eso-logo-large.png
     keywords:
@@ -20,4 +20,4 @@ entries:
     urls:
     - external-secrets-0.5.9.tgz
     version: 0.5.9
-generated: "2022-08-28T20:27:38.987586-06:00"
+generated: "2022-08-28T20:39:40.058734-06:00"
